@@ -24,10 +24,6 @@ The repository is organized by course, with each course containing:
 
 Explore the folders to dive into each course and access valuable materials that can assist you in mastering the various aspects of data science.
 
-I'm working to implement:
-- Practical Assignments 🔍
-- Code Examples 💻
-
 ## 🙌 Contributions Welcome!
 
 This repository is a collaborative effort, and **contributions are highly encouraged!** If you have additional notes, practical solutions, or new insights to share, feel free to:
